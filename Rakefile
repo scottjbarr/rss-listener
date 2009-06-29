@@ -5,7 +5,7 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "rss-listener"
-    gem.summary = %Q{TODO}
+    gem.summary = %Q{A Simple ruby RSS Listener that notifies when new items are found.}
     gem.email = "ampearson@gmail.com"
     gem.homepage = "http://github.com/radamant/rss-listener"
     gem.authors = ["Adam Pearson"]
