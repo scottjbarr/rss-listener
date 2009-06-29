@@ -1,0 +1,7 @@
+= rss-listener
+
+Description goes here.
+
+== Copyright
+
+Copyright (c) 2009 Adam Pearson. See LICENSE for details.
