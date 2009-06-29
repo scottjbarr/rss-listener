@@ -20,6 +20,7 @@ Gem::Specification.new do |s|
      "Rakefile",
      "VERSION",
      "lib/rss-listener.rb",
+     "rss-listener.gemspec",
      "spec/rss-listener_spec.rb",
      "spec/spec_helper.rb"
   ]
