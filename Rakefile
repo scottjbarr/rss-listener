@@ -9,6 +9,8 @@ begin
     gem.email = "ampearson@gmail.com"
     gem.homepage = "http://github.com/radamant/rss-listener"
     gem.authors = ["Adam Pearson"]
+    gem.add_dependency('mash')
+    gem.add_dependency('eventful')
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
 
